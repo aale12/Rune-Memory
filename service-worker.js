@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Rune-Memory/precache-manifest.ab30063de3ae5039a7ec9852108d0530.js"
+  "/Rune-Memory/precache-manifest.03b8cdeffb0eaab5f3ec2487c0b72dec.js"
 );
 
 workbox.clientsClaim();
