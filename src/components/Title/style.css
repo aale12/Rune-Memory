@@ -1,0 +1,34 @@
+.title {
+  text-align: center;
+  font-size: 3rem;
+  color:whitesmoke;
+  font-family: 'Skranji', cursive;
+  padding: 0.25em;
+  background: black;
+  border-radius:1em;
+}
+
+.peripheral{
+  font-family: 'Skranji', cursive;
+
+  text-align:center;
+  font-size:1rem;
+  color:whitesmoke;
+  background:black;
+  border-radius: 3em;
+  padding: 0.25em;
+}
+
+.danger{
+  font-family: 'Skranji', cursive;
+  text-align:center;
+  font-size:1rem;
+  color:whitesmoke;
+  background: red;
+  border-radius: 3em;
+}
+
+.titleBar{
+  width:100px;
+  margin-bottom: 2em;
+}
