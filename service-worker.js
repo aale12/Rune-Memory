@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/aale12/Rune-Memory/precache-manifest.d7ca9477a26e1d15820a36758c6f199f.js"
+  "/Rune-Memory/precache-manifest.e538b54b24b970981476a82609e7ddcd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/aale12/Rune-Memory/index.html", {
+workbox.routing.registerNavigationRoute("/Rune-Memory/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
