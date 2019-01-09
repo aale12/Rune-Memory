@@ -2,106 +2,106 @@
   {
     "id": 1,
     "name": "Air",
-    "image": "/assets/images/Air_rune_detail.png"
+    "image": "/images/Air_rune_detail.png"
   },
   {
     "id": 2,
     "name": "Astral",
-    "image": "/assets/images/Astral_rune_detail.png"
+    "image": "/images/Astral_rune_detail.png"
   },
   {
     "id": 3,
     "name": "Blood",
-    "image": "/assets/images/Blood_rune_detail.png"
+    "image": "/images/Blood_rune_detail.png"
   },
   {
     "id": 4,
     "name": "Body",
-    "image": "/assets/images/Body_rune_detail.png"
+    "image": "/images/Body_rune_detail.png"
   },
   {
     "id": 5,
     "name": "Chaos",
-    "image": "/assets/images/Chaos_rune_detail.png"
+    "image": "/images/Chaos_rune_detail.png"
   },
   {
     "id": 6,
     "name": "Cosmic",
-    "image": "/assets/images/Cosmic_rune_detail.png"
+    "image": "/images/Cosmic_rune_detail.png"
   },
   {
     "id": 7,
     "name": "Death",
-    "image": "/assets/images/Death_rune_detail.png"
+    "image": "/images/Death_rune_detail.png"
   },
   {
     "id": 8,
     "name": "Earth",
-    "image": "/assets/images/Earth_rune_detail.png"
+    "image": "/images/Earth_rune_detail.png"
   },
   {
     "id": 9,
     "name": "Fire",
-    "image": "/assets/images/Fire_rune_detail.png"
+    "image": "/images/Fire_rune_detail.png"
   },
   {
     "id": 10,
     "name": "Law",
-    "image": "/assets/images/Law_rune_detail.png"
+    "image": "/images/Law_rune_detail.png"
   },
   {
     "id": 11,
     "name": "Mind",
-    "image": "/assets/images/Mind_rune_detail.png"
+    "image": "/images/Mind_rune_detail.png"
   },
   {
     "id": 12,
     "name": "Nature",
-    "image": "/assets/images/Nature_rune_detail.png"
+    "image": "/images/Nature_rune_detail.png"
   },
   {
     "id": 13,
     "name": "Soul",
-    "image": "/assets/images/Soul_rune_detail.png"
+    "image": "/images/Soul_rune_detail.png"
   },
   {
     "id": 14,
     "name": "Water",
-    "image": "/assets/images/Water_rune_detail.png"
+    "image": "/images/Water_rune_detail.png"
   },
   {
     "id": 15,
     "name": "Wrath",
-    "image": "/assets/images/Wrath_rune_detail.png"
+    "image": "/images/Wrath_rune_detail.png"
   },
   {
     "id": 16,
     "name": "Dust",
-    "image": "/assets/images/Dust_rune_detail.png"
+    "image": "/images/Dust_rune_detail.png"
   },
   {
     "id": 17,
     "name": "Lava",
-    "image": "/assets/images/Lava_rune_detail.png"
+    "image": "/images/Lava_rune_detail.png"
   },
   {
     "id": 18,
     "name": "Mist",
-    "image": "/assets/images/Mist_rune_detail.png"
+    "image": "/images/Mist_rune_detail.png"
   },
   {
     "id": 19,
     "name": "Mud",
-    "image": "/assets/images/Mud_rune_detail.png"
+    "image": "/images/Mud_rune_detail.png"
   },
   {
     "id": 20,
     "name": "Smoke",
-    "image": "/assets/images/Smoke_rune_detail.png"
+    "image": "/images/Smoke_rune_detail.png"
   },
   {
     "id": 21,
     "name": "Steam",
-    "image": "/assets/images/Steam_rune_detail.png"
+    "image": "/images/Steam_rune_detail.png"
   }
 ]
