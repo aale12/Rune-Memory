@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Rune-Memory/static/css/main.9ba9ad75.chunk.css"
   },
   {
-    "revision": "b7f810b9acba4c1c9dbba3b4c7dacb0c",
+    "revision": "c12c5da9b755030f705b1c43f512aa47",
     "url": "/Rune-Memory/index.html"
   }
 ];
