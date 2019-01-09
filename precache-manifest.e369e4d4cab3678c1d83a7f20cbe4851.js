@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Rune-Memory/static/js/runtime~main.78231aa3.js"
   },
   {
-    "revision": "f75303e6edd53ce985f3",
-    "url": "/Rune-Memory/static/js/main.f75303e6.chunk.js"
+    "revision": "2b510704f551a61410c5",
+    "url": "/Rune-Memory/static/js/main.2b510704.chunk.js"
   },
   {
     "revision": "9c49b1657f794805e3dd",
     "url": "/Rune-Memory/static/js/1.9c49b165.chunk.js"
   },
   {
-    "revision": "f75303e6edd53ce985f3",
-    "url": "/Rune-Memory/static/css/main.4fea9b5b.chunk.css"
+    "revision": "2b510704f551a61410c5",
+    "url": "/Rune-Memory/static/css/main.694a8e16.chunk.css"
   },
   {
-    "revision": "37204a3c25699309ce8f1fbf16cb1127",
+    "revision": "a75f5662fdd654724de962bf6df7fd5b",
     "url": "/Rune-Memory/index.html"
   }
 ];

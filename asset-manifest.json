@@ -1,13 +1,13 @@
 {
-  "main.css": "/Rune-Memory/static/css/main.4fea9b5b.chunk.css",
-  "main.js": "/Rune-Memory/static/js/main.f75303e6.chunk.js",
-  "main.js.map": "/Rune-Memory/static/js/main.f75303e6.chunk.js.map",
+  "main.css": "/Rune-Memory/static/css/main.694a8e16.chunk.css",
+  "main.js": "/Rune-Memory/static/js/main.2b510704.chunk.js",
+  "main.js.map": "/Rune-Memory/static/js/main.2b510704.chunk.js.map",
   "static/js/1.9c49b165.chunk.js": "/Rune-Memory/static/js/1.9c49b165.chunk.js",
   "static/js/1.9c49b165.chunk.js.map": "/Rune-Memory/static/js/1.9c49b165.chunk.js.map",
   "runtime~main.js": "/Rune-Memory/static/js/runtime~main.78231aa3.js",
   "runtime~main.js.map": "/Rune-Memory/static/js/runtime~main.78231aa3.js.map",
-  "static/css/main.4fea9b5b.chunk.css.map": "/Rune-Memory/static/css/main.4fea9b5b.chunk.css.map",
+  "static/css/main.694a8e16.chunk.css.map": "/Rune-Memory/static/css/main.694a8e16.chunk.css.map",
   "index.html": "/Rune-Memory/index.html",
-  "precache-manifest.e538b54b24b970981476a82609e7ddcd.js": "/Rune-Memory/precache-manifest.e538b54b24b970981476a82609e7ddcd.js",
+  "precache-manifest.e369e4d4cab3678c1d83a7f20cbe4851.js": "/Rune-Memory/precache-manifest.e369e4d4cab3678c1d83a7f20cbe4851.js",
   "service-worker.js": "/Rune-Memory/service-worker.js"
 }
